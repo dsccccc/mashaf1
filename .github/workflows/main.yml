@@ -1,13 +1,8 @@
-on:
-  workflow_dispatch:
-    inputs:
-      url:
+on: workflow_dispatch
     
 jobs:
   main:
     runs-on: ubuntu-latest
-    env:
-      file_name: tmp.md
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python 3.11
