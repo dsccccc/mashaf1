@@ -1,4 +1,4 @@
 # mashaf1
 Direct link decoder of mashaf1 via haixingtiyu.
 ## Link
-https://pullhw.zhaoyangyang.cn/live/8745062.m3u8?auth_info=Saa0I9g8G%2Fyb5jItbzDn52NCA0%2FTAQOFvpOO1PJ6Zjk%3D.6d3550525549704d6339447555593266
+https://pullhw.zhaoyangyang.cn/live/8773358.m3u8?auth_info=TX%2BRGVnE8PXhSySy67cMvdfgnlOC9Zr1eL%2FwtYcfZDo%3D.376178526549765a7a726d63614d7938
