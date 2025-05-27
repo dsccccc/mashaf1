@@ -18,4 +18,4 @@ def parser(soup: BeautifulSoup) -> str:
 
 
 if __name__ == '__main__':
-    print(parser(reader('https://haixingtiyu.live/live/1069')))
+    print(parser(reader('https://www.idevkit.com/live/1069')))
